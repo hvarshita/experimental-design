@@ -12,3 +12,7 @@ We formulated our hypotheses as follows:
 Null Hypothesis (H0): The mean spending, as a percent of total spending, in a particular category during a recession is equal to the mean percent of total spending in the same category outside of a recession.
 Alternate Hypothesis (H1): The mean spending in a particular category, as a percent of total spending, during a recession is different from the mean percent of total spending in the same category outside of a recession.
 We performed Welch’s two-sample t-tests to compare mean percent spending in each category during and outside of a recession. The test results, including test statistics and p-values, were used to determine if we could reject the null hypothesis. We used a significance level of 0.05 for hypothesis testing.
+
+Repository Contents:
+Data: Contains the cleaned and merged datasets used for the analysis.
+Code: The code for data preprocessing, hypothesis testing, and generating visualizations is located here.
